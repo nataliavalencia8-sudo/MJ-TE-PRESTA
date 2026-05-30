@@ -19,13 +19,13 @@ Profesora: Cindy Estrada
 
 ## 🎓 Vínculos Académicos y Descripción
 
-**Manuela Bustamante** — Líder del proyecto. Estudiante de Ingeniería Industrial con interés en programación y desarrollo técnico. Dominio de Python, liderazgo y gestión de conflictos.
+**Manuela Bustamante Castrillón** — Soy estudiante de Ingeniería Industrial con interés en el área de la programación y el desarrollo técnico. Me destaco por mi dominio de la herramienta Python y mi capacidad para aplicarla en la resolución de problemas. En el trabajo colaborativo, aporto habilidades sólidas de liderazgo, facilidad para el trabajo en equipo y una gran capacidad para gestionar y resolver conflictos. Me caracterizo por mi sentido de la responsabilidad y por garantizar la puntualidad en todos los entregables del grupo. 
 
-**Fabian Jimenez** — Desarrollador Backend. Enfoque metodológico y estructurado. Fortalezas en análisis cuantitativo y comunicación efectiva. Aplica Python en automatización y diseño de sistemas.
+**Fabian Saul Jimenez Madera** — Estudiante de tercer semestre de Ingeniería Industrial en la Universidad de Antioquia. Poseo experiencia en el desarrollo colaborativo de proyectos, los cuales abordo con un enfoque metodológico y estructurado. Mis fortalezas incluyen la capacidad de análisis cuantitativo, comunicación efectiva y un fuerte compromiso con los objetivos del equipo y el aprendizaje colaborativo. Actualmente, aplico mis fundamentos en Python para la automatización y el diseño de sistemas de control de recursos, además de colaborar en un proyecto de gestión de préstamos.
 
-**Miguel Angel López** — Desarrollador Backend. Participa en programación estructurada, manejo de archivos planos y validación de datos. Responsable de la clase `clsUsuarios` y el módulo de devoluciones.
+**Miguel Angel López Garcia** — Soy estudiante de Ingeniería Industrial en la Universidad de Antioquia y tengo interés en el área de programación y desarrollo de sistemas. He participado en el desarrollo colaborativo de proyectos, aportando en la programación estructurada, el manejo de archivos planos y la validación de datos. En el proyecto actual, contribuyo al desarrollo del sistema, siendo responsable de la clase *clsUsuarios* y del módulo de devoluciones y certificados. Me interesa especialmente la lógica aplicada a la resolución de problemas y el trabajo en equipo para cumplir con los objetivos del proyecto.
 
-**Natalia Valencia** — QA y Documentación. Responsable del módulo administrador, manual de usuario y pruebas funcionales. Fortalezas en atención al detalle y redacción técnica.
+**Angie Natalia Valencia Castañeda** — Soy estudiante de Ingeniería Industrial de la Universidad de Antioquía, asumo el rol de calidad y documentación del proyecto. Soy responsable del módulo de administración, del manual de usuario y de las pruebas funcionales del sistema. Mis fortalezas son la atención al detalle, la redacción técnica y la capacidad de identificar errores. También apoyo la elaboración del diagrama de Gantt y el cronograma del proyecto. 
 
 ---
 
