@@ -1,4 +1,4 @@
-# 🎮 MJ TE PRESTA
+# 💰 MJ TE PRESTA
 
 Sistema Gestor de Préstamos — Universidad de Antioquia  
 Facultad de Ingeniería | Curso: Algoritmia y Programación  
