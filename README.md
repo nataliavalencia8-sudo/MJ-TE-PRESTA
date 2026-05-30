@@ -30,7 +30,7 @@ Profesora: Cindy Estrada
 ---
 
 ## 📌 Nombre del Proyecto
-
+![MJ TE PRESTA](Imagen1.jpg)
 **MJ TE PRESTA**
 
 Sistema diseñado para ayudar a MJ a gestionar sus préstamos de artículos (juegos, herramientas, electrodomésticos y más) de forma digital, eliminando el problema del olvido.
