@@ -115,7 +115,7 @@ Sistema diseñado para ayudar a MJ a gestionar sus préstamos de artículos (jue
 | Pruebas y correcciones | Todos | | | ● |
 | Entrega final GitHub | Manuela | | | ● |
 
-### 💰 Presupuesto
+### 💲 Presupuesto
 
 | Integrante | Horas | Valor/hr | Total |
 |---|---|---|---|
