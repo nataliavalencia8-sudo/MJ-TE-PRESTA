@@ -125,3 +125,11 @@ Sistema diseñado para ayudar a MJ a gestionar sus préstamos de artículos (jue
 | Miguel Ángel | 12–13 h | $5.682 | $73.866 |
 | Natalia Valencia | 12–13 h | $5.682 | $73.866 |
 | **TOTAL** | **50 h** | — | **$284.100** |
+
+---
+
+## 📋 Actas del Proyecto
+
+- [Acta de Entendimiento](docs/Acta_de_Entendimiento.pdf)
+- [Acta de Colaboración](docs/Acta_de_Colaboracion.pdf)
+- [Acta de Responsabilidad](docs/Acta_de_Responsabilidad.pdf)
