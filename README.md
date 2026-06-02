@@ -130,6 +130,6 @@ Sistema diseñado para ayudar a MJ a gestionar sus préstamos de artículos (jue
 
 ## 📋 Actas del Proyecto
 
-- [Acta de Entendimiento](docs/Acta_de_Entendimiento.pdf)
-- [Acta de Colaboración](docs/Acta_de_Colaboracion.pdf)
-- [Acta de Responsabilidad](docs/Acta_de_Responsabilidad.pdf)
+- [Acta de Entendimiento](Acta de Entendimiento.pdf)
+- [Acta de Colaboración](Acta de Colaboración.pdf)
+- [Acta de Responsabilidad](Acta de Responsabilidad.pdf)
