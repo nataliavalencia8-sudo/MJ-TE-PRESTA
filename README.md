@@ -126,6 +126,16 @@ Sistema diseñado para ayudar a MJ a gestionar sus préstamos de artículos (jue
 | Natalia Valencia | 12–13 h | $5.682 | $73.866 |
 | **TOTAL** | **50 h** | — | **$284.100** |
 
+## 🔄 Plan de Versionado
+
+| Versión | Fecha | Descripción |
+|---|---|---|
+| v0.1 | 26/05/2026 | Inicio del proyecto. Creación del repositorio y documentación inicial (README, actas, licencia). |
+| v0.2 | 02/06/2026 | Especificación de requisitos completa. Estructura de carpetas definida. |
+| v0.3 | 09/06/2026 | Desarrollo del backend: clsUsuarios, clsPrestamos, clsItems. |
+| v0.4 | 11/06/2026 | Módulo de devoluciones, ventas y administrador. |
+| v1.0 | 14/06/2026 | Entrega final. Manual de usuario, pruebas QA y correcciones. |
+
 ---
 
 ## 📋 Actas del Proyecto
