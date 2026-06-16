@@ -1,12 +1,16 @@
+import os
+
 # pf_Algoritmos
 # Archivo principal: main.py
 # Sistema: MJ TE PRESTA
 
-from clsUsuarios import registrar_usuario, listar_usuarios
-from clsItems import registrar_item, listar_items
-from clsPrestamos import registrar_prestamo, consultar_prestamos
-from modDevoluciones import registrar_devolucion
-from modAdministrador import menu_administrador
+# Las siguientes funciones/clases se definen en otras celdas y están en el ámbito global
+# por lo que no necesitan ser importadas de esta manera.
+# from clsUsuarios import registrar_usuario, listar_usuarios
+# from clsItems import registrar_item, listar_items
+# from clsPrestamos import registrar_prestamo, consultar_prestamos
+# from modDevoluciones import registrar_devolucion
+# from modAdministrador import menu_administrador
 
 def mostrar_menu():
     print("\n")
@@ -17,7 +21,7 @@ def mostrar_menu():
     print("  ██║╚██╔╝██║██    ██║       ██║   ██╔══╝  ")
     print("  ██║ ╚═╝ ██║╚██████╔╝       ██║   ███████╗")
     print("  ╚═╝     ╚═╝ ╚═════╝        ╚═╝   ╚══════╝")
-    print("       T E   P R E S T A")
+    print("                 P R E S T A")
     print("  ─────────────────────────────────────────────")
     print("       Bienvenido a MJ TE PRESTA")
     print("  ─────────────────────────────────────────────")
@@ -45,9 +49,9 @@ def main():
         elif opcion == "4":
             registrar_devolucion()
         elif opcion == "5":
-            from clsPrestamos import prestamos_con_mas_de_30_dias
-            from clsUsuarios import buscar_usuario
-            from clsItems import buscar_item
+            # from clsPrestamos import prestamos_con_mas_de_30_dias # Removido, ya está global
+            # from clsUsuarios import buscar_usuario # Removido, ya está global
+            # from clsItems import buscar_item # Removido, ya está global
             vencidos = prestamos_con_mas_de_30_dias()
             if not vencidos:
                 print("\n  ✅ No hay ítems con más de 30 días prestados.")
